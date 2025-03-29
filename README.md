@@ -29,7 +29,7 @@ By the end of this course, you’ll be able to **optimize AI retrieval pipelines
 - **Building a RAG Pipeline:**  
   - Combine retrieval with an **LLM-based response generator**.  
 
-📌 *Notebook: [`L1-Embeddings_based_retrival.ipynb`*](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L1-Embeddings_based_retrival.ipynb)  
+📌 *Notebook*: [`L1-Embeddings_based_retrival.ipynb`](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L1-Embeddings_based_retrival.ipynb)  
 
 ### [**2. Pitfalls of Retrieval – When Simple Vector Search Fails** ](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L2-Pitfalls_of_retrieval.ipynb) 
 - **Understanding Retrieval Issues:**  
@@ -39,7 +39,7 @@ By the end of this course, you’ll be able to **optimize AI retrieval pipelines
   - Project query and document embeddings.  
   - Identify **relevance vs. distraction** in retrieval.  
 
-📌 *Notebook: [`L2-Pitfalls_of_retrieval.ipynb`*](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L2-Pitfalls_of_retrieval.ipynb)  
+📌 *Notebook*: [`L2-Pitfalls_of_retrieval.ipynb`](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L2-Pitfalls_of_retrieval.ipynb)  
 
 ### [**3. Query Expansion**](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L3-Query_expansion.ipynb)  
 - **Expansion with Generated Answers:**  
@@ -51,7 +51,7 @@ By the end of this course, you’ll be able to **optimize AI retrieval pipelines
 - **Visualization:**  
   - Project original & expanded query embeddings to analyze impact.  
 
-📌 *Notebook: [`L3-Query_expansion.ipynb`*](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L3-Query_expansion.ipynb)  
+📌 *Notebook*: [`L3-Query_expansion.ipynb`](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L3-Query_expansion.ipynb)  
 
 ### [**4. Cross-Encoder Re-ranking**](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L4-Cross_encoder_reranking.ipynb)  
 - **Improving Retrieval with Re-ranking:**  
@@ -63,7 +63,7 @@ By the end of this course, you’ll be able to **optimize AI retrieval pipelines
   - Re-rank retrieved results to **prioritize the most relevant ones**.  
   - Combine **query expansion & re-ranking** for improved retrieval.  
 
-📌 *Notebook: [`L4-Cross_encoder_reranking.ipynb`*](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L4-Cross_encoder_reranking.ipynb)  
+📌 *Notebook*: [`L4-Cross_encoder_reranking.ipynb`](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L4-Cross_encoder_reranking.ipynb)  
 
 ### [**5. Embedding Adapters**](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L5-Embedding_addaptors.ipynb)  
 - **Enhancing Embeddings for Better Retrieval:**  
@@ -75,7 +75,7 @@ By the end of this course, you’ll be able to **optimize AI retrieval pipelines
 - **Visualization of Adapted Embeddings:**  
   - Compare standard vs. adapted embeddings to measure improvements.  
 
-📌 *Notebook: [`L5-Embedding_addaptors.ipynb`*](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L5-Embedding_addaptors.ipynb)  
+📌 *Notebook*: [`L5-Embedding_addaptors.ipynb`](https://github.com/michaWorku/Advanced-Retrieval-for-AI-with-Chroma/blob/main/L5-Embedding_addaptors.ipynb)  
 
 ### **6. Other Advanced Techniques**  
 - **Fine-tuning Embedding Models** – Train custom embeddings for better domain adaptation.  
